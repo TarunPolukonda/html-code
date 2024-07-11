@@ -1,0 +1,35 @@
+image:
+  To create a image we use <img/> which carries src,alt,width,heigth attributes 
+types of images
+===============
+1) Absolute(from google)
+2) Relative(from local device)
+
+Link
+=====
+  To create connection from one page to another page we use <a> which carries href,target attributes
+Attribute
+========
+ which you need to give for opening tag of an element
+
+ list
+ =====
+   In html we are having 3 types of lists 
+   1)Un-ordered
+   2)Ordered
+   3)Descriptive
+
+   1)Un-ordered : It is going to carry symbols as identifiers here we use "type" as a Attribute and the values are "disc","circle","square","none"
+
+   2)Ordered : which carries sequence of numbers or alphabets the attributes are "1","A","a","i","I"
+
+   Form
+   =====
+   to take information from a user we are going to use forms in that particular form tag we are going to use input fields the input field is going to carry different types of attributes 
+   1)type : the values of type Attribute are "text","number","email","password","radio","checkbox","file","date"
+   2)name : which is used to carry the information of an element and accessed in backend(python or java)
+   3)place holder : which carries a dummy reference value
+   4)value : which is used to access the information entered by the user 
+   5)required : which makes a input field mandatory
+    
+   Form is going to carry action and method as the attributes which helps to submit the data to backend server
